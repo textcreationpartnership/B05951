@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Because that to many people, I have seemed to falsify my word and promise,</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05951</idno>
+            <idno type="STC">Wing S5108</idno>
+            <idno type="STC">ESTC R228917</idno>
+            <idno type="EEBO-CITATION">49520998</idno>
+            <idno type="OCLC">ocm 49520998</idno>
+            <idno type="VID">174223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174223)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2678:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Because that to many people, I have seemed to falsify my word and promise,</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first line of text.</note>
+                  <note>Signed on p. [1]: Richard Stafford.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Imperfect: tight binding, with loss of print.</note>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stafford, Richard, 1663-1703 --  Imprisonment.</term>
+               <term>Inmates of institutions --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="collection">
+            <pb facs="tcp:174223:1"/>
+            <pb facs="tcp:174223:1" rendition="simple:additions"/>
+            <p>
+               <hi>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that to many People, I have ſeemed to falſify my Word and Promiſe, which I made <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my being diſcharged out of</hi> Bethelem <hi>Hoſpital; whereupon I am now liable to the Im<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ation of a Lyar and Deceiver (which lies as a very great Prejudice againſt the Things I <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ve heretofore written, and Publiſhed to the World) I ſhall therefore here add the very <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thereof; Together with what is here obſerved thereon.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honourable <hi>Daniel</hi> Earl of <hi>N.</hi> Principal Secretary of State. <gap reason="illegible: in gutter" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Humble <hi>PETITION</hi> of <hi>Richard Stafford,</hi> a Priſoner in <hi>Bethlehem</hi> Hoſpital.</head>
+                        <p>
+                           <hi>SHEWETH,</hi>
+                        </p>
+                        <p>THAT your Petitioner hath been detained here for almoſt theſe eight Months, By an Order of the Board of Green Cloth, for diſturbing Their Majeſties Houſhold at <hi>Kenſington;</hi> By my de<g ref="char:EOLhyphen"/>livery of certain Books there, on <hi>Nov.</hi> 3. 1691. for which this my Act of Inadvertency, I am heartily ſorry; And I do hereby with all due Reſpectfulneſs and Humility beg Their Majeſties <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>on, for what Offence I have hereby given to them. And ſeeing that by ſo long and tedious Impriſonment, <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>e been, and am ſtill detained and kept from the publick Worſhip and Service of Almighty God: As <gap reason="illegible: in gutter" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> from the Comforts and Ends of Humane Life. My humble Prayer is therefore unto your Lordſhip, <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>t you would intercede with Her Majeſty, That She would be Graciouſly pleaſed, out of Her Princely Fa<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>r (and upon this my Acknowledgment, and future Reſolution) to give Command or Direction, for my <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>eaſe and Diſcharge out of this Houſe of Confinement and Shame; and to <hi>grant me my former Liberty <gap reason="illegible: in gutter" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>d Freedom</hi> (which laſt Words, tho they were not expreſſed, yet they were intended in my Mind) And <gap reason="illegible: in gutter" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> I do hereby promiſe before God, and upon the Word of a Chriſtian man, That I will never any more <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>ne within the Gates of <hi>VVhite-Hall</hi> or <hi>Kenſington</hi> Court: Nor, will I Write and Publiſh any thing more againſt <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>e Government, as it is at preſent Eſtabliſhed. Adding this withal, That if ever I ſhould Tranſgreſs or Vio<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>e in the leaſt particular againſt what I do here declare, and faithfully promiſe, I would then willingly ſub<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>t to be Immur'd up here, or elſe-where during Life. Or to be proceeded againgſt in a Regular and Le<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>d way, with the utmoſt ſeverity, according as your Righteouſneſs and Wiſdom ſhall think fit. But my mentions being now Real and Unfeigned, as above-ſpecified. I do hope that I may for this once partake of <gap reason="illegible: in gutter" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>oyal <hi>Mercy.</hi> And that your Lordſhip would be pleaſed io Repreſent and make this known, is the moſt earn <gap reason="illegible: in gutter" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Deſire, and Supplication of</p>
+                        <closer>
+                           <signed>
+                              <hi>Your moſt Obedient Servant, And Humble Petitioner,</hi> Richard Stafford.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="2" facs="tcp:174223:2"/>
+            <p>Theſe Words, To <hi>be Immur'd up here or elſe where during Life.</hi> I did like the eloquent Orator me<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>Iſu.</hi> 3. 3. put in to make this my Petition more Perſuaſive. But not with an intent to concluded <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be dealt withal accordingly</p>
+            <p>This <hi>Petition</hi> was carried and preſented unto him, On <hi>June</hi> 20. Upon which the day following <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> following Order was ſent, and directed unto Sir <hi>VVilliam Turner,</hi> and to the other Governours of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hoſpital.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <date>
+                        <hi>June</hi> 21. 1692.</date>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>The Queen is willing to diſcharge Mr.</hi> Richard Stafford <hi>out of</hi> Bethlehem <hi>Hoſpital to deliver him up to his Father.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Humble Servant <hi>N.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>BY this General phraſe of delivering me up to my Father, there was no ſuch Grant of my former <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty and Freedom; Upon which my ſolemn Promiſe was founded.</p>
+            <p>But (not laying ſo much ſtreſs on that) then beſides, If a Promiſe is as it were forced and extorted, as it w<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with me by Grievous foregoing Bondage and Oppreſſion, in putting me down into a low, dark, narrow, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Room, for ſeven Weeks and three days. And ſo in like manner, in the former Times of Uſurpation, Their <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> did weary out Judge <hi>Jenkins,</hi> by long Impriſonment. By which they forced him to ſign a Paper, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he did much more acknowledge their Government that then was, than I have done as to the preſent <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> form of Petition. Or if the matter of a Promiſe is unlawful, as here it is to hinder the Word of th<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and to ſtop that free courſe thereof, which it ought to have. In both theſe caſes it ceaſes to oblige; As <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> yet more clearly underſtood from the Contents of the following Letter, which was delivered in and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Penny-poſt, on <hi>July</hi> 29 laſt paſt, and directed to him at <hi>Cleveland. Houſe,</hi> near <hi>St. James,</hi> but ſuperſcribed.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Right Honourable <hi>Daniel</hi> Earl of <hi>N.</hi> Principal Secretary of State, and t<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> other Members of the Privy Council.</head>
+                  <opener>
+                     <salute>Richard Stafford, <hi>a Scribe of Jeſus Christ, ſendeth Greeting.</hi>
+                     </salute>
+                  </opener>
+                  <p>THeſe are to acquaint Your Lordſhips, and the preſent Rules, That I have had very great Tr<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and Remorſe of Conſcience (being afraid and ſenſible, That I have offended God in an high de<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> for that Petition which I ſent unto Your Lordſhip, on the 19th of <hi>June</hi> laſt paſt: Wherein I did pra<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> my diſcharge out of <hi>Bethlebem</hi> Hoſpital, and you were pleaſed to ſend an Order accordingly for it the following; which, though it was an Act of great Goodneſs in your ſelf to be inſtrumental towards the e<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ing of it; and it was, and is ſtill very acceptable unto me: And I do hereby reſent it with all due Tha<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>neſs; Yet the terms upon which I did deſire it, were in me ſinful and unbecoming ſuch an One who is employ<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> the miniſtration of the word of the Lord unto the Inhabitants of the Earth. For whereas rather from the dic<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of ſome other than from mine own Sentiments) I did there ſet forth and promiſe, that what I had done as to <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> occaſion of my Commitment was in me an Act of Inadvertency; And that I would write and publiſh no <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> againſt the Government as it is at preſent Eſtabliſhed (I do not write againſt Government in the Gene<gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> but againſt Sin, Iniquity and Tranſgreſſion in the preſent Governours) That aforementioned dropped, was as it were forced from me by Humane Infirmity, and out of my impatient deſire of Releaſe from that <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and tedious Impriſonment, under which I did groan. But now upon my ſerious and innermoſt Thought <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:174223:2"/>
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Truth acknowledge ſo. And I learn from the Example of <hi>Jeremiah,</hi> That when through the fore<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Harraſſing and Perſecution of Men, He came to this Reſolution, <hi>Then I ſaid</hi> (which implies ſome<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> an outward Promiſe) I will not make mention of him, nor ſpeak any more in his Name. <hi>But his <gap reason="illegible: in gutter" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> was in mine Heart as a burning fire, ſhut up in my bones, and I was weary with forbearing, and I could <gap reason="illegible: in gutter" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y.</hi> Jer. 20. 9. In like-manner, I ſince finding ſuch ſtrong Impulſes of this Nature upon my Spirit, and by <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> may be further gathered from <hi>Numbers</hi> 30. 2. Seeing that the Spirit of God in my Heart did at the <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime diſallow what I did herein, as He did at the very ſame moment to the Spirit of my Mind: Not <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of thoſe Vows or Bonds wherewith I have ſeemed to tie my ſelf ſhall ſtand; and the Lord ſhall forgive <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> becauſe his Spirit did diſallow what I did herein, as he did at the very ſame moment to the Spirit of my <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> For the Vow of a Woman or Wife ſhall not bind her, if her Father or her Husband doth diſallow the <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; much more all thoſe Promiſes made unto Men ſhall no further oblige, than ſaving our Duty to the <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God over all.</p>
+                  <p>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd though in Probability if ye had known as much before hand, ye would have ſtill kept me Captive, and let me go, as now upon my giving this Notice hereof, Ye will be apt to relapſe me into the ſame or a <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Condition; Yet I ſhould have all along, and I am ſtill to commit my Cauſe unto God, with only warn<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all of thus much before hand, <hi>viz.</hi> ſeeing that all which I have done as Relating to publick Affairs <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>dy Reproof of Tranſgreſſion, and exhorting People to come again into the way of God's Commandments. <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſet his Laws before Mankind, and I do Publiſh his eternal Truth. I do nothing more, beyond, or beſides <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>; which again I do not out of mine own Head, but only from of the Statute Book of the Lord God. If <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> think that I deſerve to be impriſoned for this Doing, and ye will be inſtrumental to Confine me, God, will <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e that ye and the other People do deſerve Damnation, for not obeying thoſe his Laws and Command<g ref="char:EOLhyphen"/>ments, which from out of the ſame Book of Scriptures I have ſet before Ye and Them. And ye will re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e yet greater Condemnation, and be beaten with more ſtripes for your thus doing towards me his Crea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e, who was ſent and employed by him in the Miniſtration of his Word and Truth. This ye will be likely <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> find ſeverally, as ſoon as your Breath is out of your Noſtrils, and your Souls are departed from your Bo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>es. God will proportion his Puniſhment, and Recompence according to the number of the days in the <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ch ye have already, or ſhall yet hold me in adverſity, and according to what ever degree, or manner of Perſecution ye have already, or ſhall uſe yet towards me.</p>
+                  <p>Though I will moſt ſtrictly obſerve that part of my Engagement, as never to come again within the Gates of <hi>White-Hall</hi> or <hi>Kenſington-Houſe,</hi> unleſs I am ſent for; Yet I would again appear boldly in Perſon. But what ye lately did towards me, was a meer Act of Violence, <hi>viz.</hi> ſuch as was neither Law nor Reaſon for, <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t only Gotten Power, and the Will of Men. It was ſo done meerly becauſe ye were ſtronger; and it could be ſo done. If I may uſe ſuch a trivial Similitude, It was like a Company of Boys who did take one of their Fellows, and bind him Hand and Foot, and lock him up in a Room by force. Which, what ſometimes they do for once out of Novelty and Play; Ye did it for ſeveral Days and Weeks ſucceſſively with me; and this <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s called the Government of Reaſonable (or rather unreaſonable) Men; and herein I may lawfully uſe thoſe neceſſary and prudential Preventives in keeping out of your way.</p>
+                  <p>If by the Words of God's Grace and Truth I might be ſomewhat inſtrumental to bring that to Right, which is now overturn'd already, and to ſettle Peace in your Conſciences, who now live in fear and doubt, un<g ref="char:EOLhyphen"/>til ye miſcarry to all Eternity (unleſs ye come to Repentance and Reſtitution) then I ſhall neither harm nor diſturb ye. And if ye would refrain from hurting my outward Perſon, ye would have leſs guilt in the mean while, and leſs puniſhment in the World to come, which we are all juſt entring into.</p>
+                  <p>To this end is the incloſed Written Paper ſent unto ye. The Words whereof (whether ſtifled or publiſh<g ref="char:EOLhyphen"/>ed) will be for ſome Witneſs and Teſtimony. By reaſon of my poor wretched Condition; and alſo Mr. <hi>Robert Stephens</hi> hath given ſuch ſtrict Orders from ye to the ſeveral Printers againſt doing any thing for me, That the will of Man is of more force in this World, than the Command of God, as to the going forth and publication of his Eternal Truth. I do doubt, and am afraid, that I ſhall never get it printed (and yet bleſſed be God who performeth all things for me) it afterwards was printed, and is Entituled, <hi>A Word to both Houſes of Parliament, and to the Privy Council.</hi>
+                  </p>
+                  <pb n="4" facs="tcp:174223:3"/>
+                  <p>However ye may Order it to be Printed, or a ſufficient Number of Copies of to be Tranſcribed. I ſend it on Purpoſe that thoſe Lives might be <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> which are now going to be loſt in their Invaſion of a foreigh Country; for 'tis <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſits at the <hi>Council Board,</hi> who do cauſe, contrive, and carry on the War; thoſe many Men, Ships, and Horſes may be turned about according to the Orders of ye who ſit at the Helm, whitherſoever the preſent Governours liſt.</p>
+                  <p>Follow Peace, and Righteouſneſs, and true Holineſs; for there is no other under Heaven whereby ye may be ſaved; and in the mean while,</p>
+                  <closer>
+                     <salute>
+                        <hi>Farew<gap reason="illegible: in gutter" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                        </hi>
+                     </salute>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
